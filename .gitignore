@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+# full flash images of a device: may hold keys or credentials, never commit
+cardputer-backup/
+*.bin
