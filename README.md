@@ -98,5 +98,5 @@ They agree with node-poweredup and with the byte-level notes in
 
 ## License
 
-AGPL-3.0-or-later, see `LICENSE`. The display, LCD and GPIO code is shared
-with the Braid project. Not affiliated with or endorsed by the LEGO Group.
+AGPL-3.0-or-later, see `LICENSE`. Not affiliated with or endorsed by the
+LEGO Group.
