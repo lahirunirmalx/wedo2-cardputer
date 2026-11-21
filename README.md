@@ -5,6 +5,13 @@ Control a LEGO WeDo 2.0 Smart Hub over Bluetooth LE without the LEGO app:
 - `cardputer/` - firmware that turns an M5Stack Cardputer into a handheld controller
 - `wedo2.py` - a small command-line tool for a Linux PC
 
+<p>
+  <img src="docs/cardputer-and-hub.jpg" alt="M5Stack Cardputer next to the WeDo 2.0 hub" width="360">
+  <img src="docs/hub.jpg" alt="The WeDo 2.0 compatible hub used for testing" width="360">
+</p>
+
+The controller screen, rendered on a PC from the firmware's own drawing code:
+
 ![Controller screen](cardputer/screen-preview.png)
 
 ## Cardputer controller
